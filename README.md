@@ -9,5 +9,3 @@ Trigonometric functions: sin(x), cos(x), tan(x), sec(x), cosec(x), cot(x)
 Logarithmic function: log10(x)
 
 Choose between Degrees and Radians
-
-for run this code install numpy library : pip install numpy
