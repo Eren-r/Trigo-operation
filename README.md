@@ -10,3 +10,4 @@ Logarithmic function: log10(x)
 
 Choose between Degrees and Radians
 
+for run this code install numpy library : pip install numpy
